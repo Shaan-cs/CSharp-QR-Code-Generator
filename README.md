@@ -89,7 +89,8 @@ InitializeComponent Error: This usually occurs when project files are out of syn
 
 Silent Fail: If the app builds but does not launch, ensure your App.xaml file has StartupUri="MainWindow.xaml" correctly set.
 
-## Output Preview
+## Output Preview<img width="1920" height="1080" alt="Screenshot (196)" src="https://github.com/user-attachments/assets/b8fbee09-f103-4724-ad1b-c527c30765ef" />
 
-![QR Code Generator Output](Screenshot (196).png)
+
+
 
