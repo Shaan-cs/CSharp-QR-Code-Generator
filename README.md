@@ -88,3 +88,8 @@ The application will launch in a maximized window with the Luxury UI.
 InitializeComponent Error: This usually occurs when project files are out of sync. To fix, manually delete the bin and obj folders from the project directory and then perform a Rebuild Solution.
 
 Silent Fail: If the app builds but does not launch, ensure your App.xaml file has StartupUri="MainWindow.xaml" correctly set.
+
+## Output Preview
+
+![QR Code Generator Output](Screenshot (196).png)
+
